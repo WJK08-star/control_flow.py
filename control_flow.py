@@ -16,12 +16,12 @@ def space_converter():
  weight_pluto =   6.3 
 
 
- print(f"Mercury = {weight_on_earth % weight_mercury}")
- print(f"Venus = {weight_on_earth % weight_venus} ")
+ print(f"Mercury = {weight_on_earth % weight_mercury} lb")
+ print(f"Venus = {weight_on_earth % weight_venus} lb")
  print(f"Mars = {weight_on_earth % weight_mars}")
- print(f"Jupiter = {weight_on_earth % weight_jupiter}")
+ print(f"Jupiter = {weight_on_earth % weight_jupiter} lb")
  print(f"Satum = {weight_on_earth % weight_satum}")
- print(f"Uranus = {weight_on_earth % weight_uranus}")
- print(f"Neptune = {weight_on_earth % weight_neptune}")
- print(f"Pluto = {weight_on_earth % weight_pluto}")
+ print(f"Uranus = {weight_on_earth % weight_uranus}lb")
+ print(f"Neptune = {weight_on_earth % weight_neptune}lb")
+ print(f"Pluto = {weight_on_earth % weight_pluto}lb")
 space_converter()
